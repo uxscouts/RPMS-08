@@ -1,9 +1,9 @@
 {
   "name": "RPMS-08",
-  "hostRequirements": {
-    "cpus": 8,
-    "memory": "32gb"
-  },
+"hostRequirements": {
+  "cpus": 4,
+  "memory": "16gb"
+},
   "dockerComposeFile": "../docker-compose.yml",
   "service": "backend",
   "workspaceFolder": "/workspace",

@@ -4,7 +4,6 @@
     "cpus": 8,
     "memory": "32gb"
   },
-  
   "dockerComposeFile": "../docker-compose.yml",
   "service": "backend",
   "workspaceFolder": "/workspace",
